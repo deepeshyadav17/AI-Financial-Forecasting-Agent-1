@@ -1,0 +1,22 @@
+#  AI Financial Forecasting Agent
+
+# Features
+- Data Cleaning Pipeline
+- ARIMA Model
+- LSTM Deep Learning Model
+- Trading Agent Simulation
+
+# Tech Stack
+- Python
+- Pandas
+- TensorFlow
+- Scikit-learn
+
+# Future Work
+- Reinforcement Learning Agent
+- Web Dashboard
+- Deployment
+
+# Results
+- LSTM Predictions
+- Trading Simulation Profits
